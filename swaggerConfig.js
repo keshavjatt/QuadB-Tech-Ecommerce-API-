@@ -105,7 +105,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000",
+        url: "https://quadb-tech-ecommerce-api.onrender.com/",
       },
     ],
     components: {
